@@ -1,8 +1,8 @@
 ! name: No BS Sites
 ! description: Eliminates stupid sites (AI generated content etc.)
-! public: false
+! public: true
 ! author: me
 
-|ultimatesuccesspuzzle.com$discard
+ultimatesuccesspuzzle.com$discard
 
-|codycrossanswers.com$discard
+codycrossanswers.com$discard
