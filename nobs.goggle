@@ -1,0 +1,6 @@
+! name: No BS Sites
+! description: Eliminates stupid sites (AI generated content etc.)
+! public: false
+! author: me
+
+|ultimatesuccesspuzzle.com$discard
